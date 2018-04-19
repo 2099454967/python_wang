@@ -1,0 +1,11 @@
+mkdir 1802
+ls
+cd 1802
+mkdir 01day
+ls
+cd 01day
+touch 1txt
+ls
+cd 1txt
+gedit
+

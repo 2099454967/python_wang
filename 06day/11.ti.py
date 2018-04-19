@@ -1,0 +1,5 @@
+name = input('名称')
+price = input('价格')
+weight = input('质量')
+ying_price = int(price)*int(weight)
+print('应付%s'%(ying_price))
